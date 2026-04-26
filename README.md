@@ -12,8 +12,6 @@ A estrutura mecânica foi projetada em 3D para auxiliar na definição da montag
 
 ![Modelo 3D da bancada](docs/modelo_3d.png)
 
-> Para exibir a imagem no GitHub, crie uma pasta `docs/` na raiz do repositório e adicione a imagem do modelo 3D com o nome `modelo_3d.png`.
-
 ---
 
 ## Estrutura do repositório
